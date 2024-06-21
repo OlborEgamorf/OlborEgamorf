@@ -1,7 +1,7 @@
 # OlborEgamorf
 Futur étudiant en Master Mathématiques Informatique Appliquées aux Sciences Humaines et Sociales à Montpellier, passionné d'informatique et de Data Science.
 
-Notre projet final de licence : [tourismeco.fr](https://toursimeco.fr), permettant de mieux voyager par l'analyse de données.
+Notre projet final de licence : [tourismeco.fr](https://tourismeco.fr), permettant de mieux voyager par l'analyse de données.
 
 Projets réalisés :
 - Python : [OlborTrack](https://github.com/OlborEgamorf/OlborTrack-Bot), [OlborTrack Companion](https://github.com/OlborEgamorf/Companion)
